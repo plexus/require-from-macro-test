@@ -1,2 +1,4 @@
 {:paths ["src" "test"]
- :deps {org.clojure/clojurescript {:local/root "/home/arne/github/clojurescript"}}}
+ :deps {org.clojure/clojurescript {:git/url "https://github.com/clojure/clojurescript"
+                                   :sha "ffbdf90f5f85a18300fb0554129def32d5809068"
+                                   #_#_:local/root "/home/arne/github/clojurescript"}}}
