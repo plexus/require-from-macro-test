@@ -1,0 +1,2 @@
+{:paths ["src" "test"]
+ :deps {org.clojure/clojurescript {:local/root "/home/arne/github/clojurescript"}}}
